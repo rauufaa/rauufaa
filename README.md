@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rauufaa
+- 👋 Hi, I’m @rauuf.aa
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on ...
